@@ -151,7 +151,7 @@ NINJA_PAGINATION_PER_PAGE = 20
 
 # CORS settings for frontend
 CORS_ALLOWED_ORIGINS = [
-    
+    'https://peehay.vercel.app/',
 ]
 
 CORS_ALLOW_ALL_ORIGINS = DEBUG  # Only allow all origins in development
